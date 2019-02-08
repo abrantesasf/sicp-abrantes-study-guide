@@ -21,4 +21,10 @@ and you'll discover a precision vocabulary for discussing what you've spent 10 y
 learning the hard way. If you're not already a great programmer, I would have thought
 that these few chapters would save you from having to spend years flailing around in
 the dark.
-> - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
+> [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
+
+> MIT set the bar very high for these courses, creating a required course (6.001)
+and a textbook (Abelson & Sussman’s Structure and Interpretation of Computer Programs)
+which were used at dozens or even hundreds of top CS schools as the de facto introduction
+to computer science. (You can, and should, watch an older version of the lectures online.)
+> [Joel Spolsky (The Perils of JavaSchools)](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/)
