@@ -5,8 +5,8 @@ books of all time (some say "the best"), the **[Structure and Interpretation of
 Computer Programs (SICP)!](http://mitpress.mit.edu/sites/default/files/sicp/index.html)**,
 written by Hal Abelson, Jerry Sussman and Julie Sussman.
 
-This book was created for the mythical 6.001 Massachusetts Institute of Technology
-(MIT) discipline, which for 27 years (1980 to 2007) was considered the highest-level
+This book was created for the mythical [6.001 Massachusetts Institute of Technology
+(MIT) discipline!](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm), which for 27 years (1980 to 2007) was considered the highest-level
 programming discipline in existence. More than [100 universities around the world
 have adopted this book!](http://mitpress.mit.edu/sites/default/files/sicp/adopt-list.html).
 
