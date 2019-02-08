@@ -1,5 +1,7 @@
 # My personal study guide for SICP
 
+## 1 What is this GitHub repository?
+
 This is my attempt to systematize my study of one of the best computer science
 books of all time (some say "the best"), the **[Structure and Interpretation of
 Computer Programs (SICP)](http://mitpress.mit.edu/sites/default/files/sicp/index.html)**,
@@ -15,13 +17,12 @@ computer scientist if you did not understand the content discussed in the SICP. 
 quotes to support that vision:
 
 > I've only ever seen one great book on the subject of computer programming: Structure
-> and Interpretation of Computer Programs (Abelson and Sussman; MIT Press). If you're
-> already a great programmer, it will take you an evening to read the first few chapters
-> and you'll discover a precision vocabulary for discussing what you've spent 10 years
-> learning the hard way. If you're not already a great programmer, I would have thought
-> that these few chapters would save you from having to spend years flailing around in
-> the dark.
-> - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
+and Interpretation of Computer Programs (Abelson and Sussman; MIT Press). If you're
+already a great programmer, it will take you an evening to read the first few chapters
+and you'll discover a precision vocabulary for discussing what you've spent 10 years
+learning the hard way. If you're not already a great programmer, I would have thought
+that these few chapters would save you from having to spend years flailing around in
+the dark. - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
 
 > MIT set the bar very high for these courses, creating a required course (6.001)
 and a textbook (Abelson & Sussman’s Structure and Interpretation of Computer Programs)
@@ -32,11 +33,32 @@ to computer science. (You can, and should, watch an older version of the lecture
 > The book should be read by every self-respecting computer scientist. Because of its
 clarity, simplicity, and wit, this work is highly recommended to anyone seeking an
 understanding of the emerging paradigms of computer science.
-> - Mitchell Wand (American Scientist)
+- Mitchell Wand (American Scientist)
 
 > Structure and Interpretation of Computer Programs (SICP) is one of the true programming
 classics. It's a well-deserved position; SICP is simply the best programming book I've ever
 read. I made my first pass through it a year ago but deliberately postponed my review;
 reading SICP completely changed the way I approach programming. [...] SICP is one of the
 most important books in our field.
-> - [Adam Tornhill (SICP Book Review)](https://www.adamtornhill.com/reviews/sicp.htm)
+- [Adam Tornhill (SICP Book Review)](https://www.adamtornhill.com/reviews/sicp.htm)
+
+> The book should be obligatory for anyone involved in teaching computer science at
+degree level: it will convince them that inside computer science there really is a true
+science trying to get out.
+- David Barron (The Times Higher Education Supplement)
+
+Although there are also [criticisms of the SICP](http://cs.brown.edu/~sk/Publications/Papers/Published/fffk-htdp-vs-sicp-journal/),
+many programmers are now returning to study it and saying that it has not yet been overcome
+([What I Have (Re)-learned From SICP](https://code-and-cocktails.herokuapp.com/blog/2014/07/06/what-i-have-re-learned-from-sicp/)).
+
+A quick Google search for "sicp study guide" will show dozens and more dozens of recent
+reports from individual SICP studies, even if MIT itself is [no longer offering this
+discipline in its new curriculum](https://mitadmissions.org/blogs/entry/the_end_of_an_era_1/).
+
+This GitHub repository is my individual study guide for SICP. I'm starting now in, February
+2019, and I intend to finish within 1 year. Feel free to use the materials and codes I will
+put here and send me suggestions and criticisms (abrantesasf at gmail dot com).
+
+Have a nice SICP!
+
+## 2 Summary
