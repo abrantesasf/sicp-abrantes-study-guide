@@ -22,30 +22,31 @@ already a great programmer, it will take you an evening to read the first few ch
 and you'll discover a precision vocabulary for discussing what you've spent 10 years
 learning the hard way. If you're not already a great programmer, I would have thought
 that these few chapters would save you from having to spend years flailing around in
-the dark. - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
+the dark.
+> - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
 
 > MIT set the bar very high for these courses, creating a required course (6.001)
 and a textbook (Abelson & Sussman’s Structure and Interpretation of Computer Programs)
 which were used at dozens or even hundreds of top CS schools as the de facto introduction
 to computer science. (You can, and should, watch an older version of the lectures online.)
-- [Joel Spolsky (The Perils of JavaSchools)](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/)
+> - [Joel Spolsky (The Perils of JavaSchools)](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/)
 
 > The book should be read by every self-respecting computer scientist. Because of its
 clarity, simplicity, and wit, this work is highly recommended to anyone seeking an
 understanding of the emerging paradigms of computer science.
-- Mitchell Wand (American Scientist)
+> - Mitchell Wand (American Scientist)
 
 > Structure and Interpretation of Computer Programs (SICP) is one of the true programming
 classics. It's a well-deserved position; SICP is simply the best programming book I've ever
 read. I made my first pass through it a year ago but deliberately postponed my review;
 reading SICP completely changed the way I approach programming. [...] SICP is one of the
 most important books in our field.
-- [Adam Tornhill (SICP Book Review)](https://www.adamtornhill.com/reviews/sicp.htm)
+> - [Adam Tornhill (SICP Book Review)](https://www.adamtornhill.com/reviews/sicp.htm)
 
 > The book should be obligatory for anyone involved in teaching computer science at
 degree level: it will convince them that inside computer science there really is a true
 science trying to get out.
-- David Barron (The Times Higher Education Supplement)
+> - David Barron (The Times Higher Education Supplement)
 
 Although there are also [criticisms of the SICP](http://cs.brown.edu/~sk/Publications/Papers/Published/fffk-htdp-vs-sicp-journal/),
 many programmers are now returning to study it and saying that it has not yet been overcome
