@@ -62,4 +62,25 @@ put here and send me suggestions and criticisms (abrantesasf at gmail dot com).
 
 Have a nice SICP!
 
-## 2 Summary
+
+
+
+## 2 Initial difficulty: how to study?
+
+The main difficulty I had, before starting, was to define a method, a plan for
+the study that used the resources available on the internet beyond the book itself.
+
+I spent almost 2 months looking for material on the internet and establishing a
+plan that could be followed by me in my free time. What I have established:
+
+1. **Get the SICP Book!** The entire original text of the SICP is available under a Creative
+   Commons license for online reading in
+   [http://mitpress.mit.edu/sites/default/files/sicp/index.html](http://mitpress.mit.edu/sites/default/files/sicp/index.html).
+   * There are other versions on internet:
+     * A beautifull [HTML5 version](http://sarabander.github.io/sicp/), created by Andres Raba;
+     * A beutifull [PDF version](https://github.com/sarabander/sicp-pdf/raw/master/sicp.pdf), created by Andres Raba; and
+     * An online [Interactive version](https://xuanji.appspot.com/isicp/index.html), created by Li Xuanji.
+   * And, of course, there are the printed versions:
+     * SICP on: [Amazon](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering-dp-0262011530/dp/0262011530), [MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
+     * Instructor's Manual to SICP on: [Amazon](https://www.amazon.com/Instructors-Structure-Interpretation-Computer-Programs/dp/0262692201/), [MIT Press](https://mitpress.mit.edu/books/instructors-manual-ta-structure-and-interpretation-computer-programs-second-edition)
+2. adsf
