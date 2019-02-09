@@ -145,7 +145,6 @@ indicate the chapter and the corresponding section of the book.
 As my study progresses, I will add here links to files and codes.
 
 0. Getting Started
-  1. asdf
    1. From MIT OCW 6.001:
       * Read the [course home page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
       * Read the [syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus)
