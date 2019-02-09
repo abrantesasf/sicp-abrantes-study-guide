@@ -192,7 +192,35 @@ As my study progresses, I will add here links to files and codes.
     * From SICP Instructor's Manual, read: Preface, Acknowledgments
   * *Step 12: You are ready! Let's start!*
 * **Chapter 1: Building Abstractions with Procedures**
-  * Section 1.1: The Elements of Programming
+  * *Section 1.1: The Elements of Programming*
+    * Watch the video lecture "[1A: Overview and Introduction to Lisp](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/)"
+      and use the PDF transcript if necessary
+    * Read "[Lecture 1 notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture1webhand.pdf)"
+    * Read "[SICP Chapter 1 Introduction](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html)" (pages 1-4)
+    * Read "[SICP Section 1.1](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html)" (pages 4-31), but do not do the exercises now
+    * Clarify concepts with recitations, and do the recitations exercises:
+      * [Daniel, 1997: Basics](https://people.csail.mit.edu/dnj/teaching/6001/1997/recitation-1/index.htm)
+      * [Daniel, 1999: Interpreters & Evaluation](https://people.csail.mit.edu/dnj/teaching/6001/1999/recitation-01.html)
+      * [Rob, 2003: Expressions](http://people.csail.mit.edu/rcm/6001/rec2.html)
+      * [Barb, 2004: Scheme Expressions](https://www.cs.rpi.edu/~cutler/6.001/S04/recitation_1.txt)
+      * [Barb, 2005: Scheme Expressions](https://www.cs.rpi.edu/~cutler/6.001/S05/recitation_1.html)
+      * [Frédo, 2005: Basic Scheme Expressions](http://people.csail.mit.edu/fredo/Classes/6001Fall05/Presentation1.pdf)
+    * Do [Problem Set 0, from Fall/1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/psets/ps0web/),
+      and also do [Project 0](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/projects/project0.pdf)
+    * Read "[Lecture 2 notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture2webhand.pdf)" and "[A Story about using Lisp in a Startup Company](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture2lispstor.pdf)"
+    * Clarify concepts with recitations, and do the recitations exercises:
+      * [Daniel, 1997: Substitution Model](https://people.csail.mit.edu/dnj/teaching/6001/1997/recitation-2/index.htm)
+      * [Daniel, 1999: Kinds of Expression, Evaluation](https://people.csail.mit.edu/dnj/teaching/6001/1999/recitation-02.html)
+      * [Barb, 2004: Lambda & Rules for Application](https://www.cs.rpi.edu/~cutler/6.001/S04/recitation_2.txt)
+      * [Barb, 2005: Lambda & Rules for Application](https://www.cs.rpi.edu/~cutler/6.001/S05/recitation_2.html)
+      * [Barb, 2004: Substition Model](https://www.cs.rpi.edu/~cutler/6.001/S04/recitation_3.txt)
+      * [Barb, 2005: Substition Model, Recursion](https://www.cs.rpi.edu/~cutler/6.001/S05/recitation_3.html)
+      * [Frédo, 2005: Lambda](http://people.csail.mit.edu/fredo/Classes/6001Fall05/Presentation2.pdf)
+    * Do [Problem Set 1, from Spring/1998](https://groups.csail.mit.edu/mac/classes/6.001/ST98/psets/ps1web/)
+      and also do [Problem Set 1, from Fall/1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/psets/ps1web/).
+      You can also take a look at other [problem sets from other years](https://groups.csail.mit.edu/mac/classes/6.001/).
+    * Do the exercises from SICP, Section 1.1.
+    * Do the exercises from SICP Instructor's Manual (SICP-IM), Section 1.1.
   * Section 1.2: Procedures and the Processes They Generate
   * Section 1.3: Formulating Abstractions With Higher-Order Procedures
 * **Chapter 2: Building Abstractions with Data**
