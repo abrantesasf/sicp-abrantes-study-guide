@@ -186,6 +186,11 @@ As my study progresses, I will add here links to files and codes.
   * *Step 8: Learn how to use [Edwin](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/Edwin.html)*
   * *Step 9: Get, or buy, a copy of SICP book (see above)*
   * *Step 10: If possible, buy a copy of SICP Instructor's Manual (see above)*
+  * *Step 11: Initial readings:*
+    * From SICP, read: Foreword, Preface to the First Edition, Preface to the
+      Second Edition, Acknowledgments
+    * From SICP Instructor's Manual, read: Preface, Acknowledgments
+  * *Step 12: You are ready! Let's start!*
 * **Chapter 1: Building Abstractions with Procedures**
   * Section 1.1: The Elements of Programming
   * Section 1.2: Procedures and the Processes They Generate
