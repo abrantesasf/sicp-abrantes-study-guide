@@ -69,9 +69,40 @@ Have a nice SICP!
 
 The main difficulty I had, before starting, was to define a method, a plan for
 the study that used the resources available on the internet beyond the book itself.
+I spent almost 2 months looking for material on the internet,
+and here's the problem: there is a *lot of material* from SICP and MIT 6.001 on
+the internet, but all of this stuff is completely disorganized, not systemized,
+with many different versions depending on the year/term when 6.001 was taught
+at MIT, and so on. The main difficulties were:
 
-I spent almost 2 months looking for material on the internet and establishing a
-plan that could be followed by me in my free time. What I have established:
+* The main source of material for SICP and MIT 6.001 is [MIT OpenCourseWare 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm),
+  which provides materials, a reading list, suggested calendar, lecture notes, exams
+  and projects. All this resources were derived from MIT 6.001 as the course was taught
+  in the Spring/2005, at MIT.
+* Video lectures: there are [twenty video lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)
+  by Hal Abelson and Gerald Jay Sussman, from a presentation of the course to
+  Hewlett-Packard employees, on 1986. The [MIT OpenCourseWare 6.001 uses these video
+  lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) and provides a transcript in PDF of everything the teacher said.
+  All video lectures are [available for download on the Internet Archives](https://archive.org/details/MIT_Structure_of_Computer_Programs_1986).
+* MIT OCW x Video Lectures: since the lessons available at MIT OCW are from 2005
+  and the video lectures from 1986, the lessons (and also the lecture notes) do
+  not exactly match the videos. This creates a reasonable difficulty: you have to
+  match the new lessons with the old videos, and this is not always obvious.
+* In the original class at MIT there were 2 recitations per week, where the
+  students interacted with assistant teachers to solve exercises and clarify
+  concepts of the lectures. Much of this stuff has been lost, but there are still
+  some on the internet:
+  * [6.001 recitation notes, Fall 2005](http://people.csail.mit.edu/fredo/Classes/6001Fall05/), from Frédo Durand
+  * [6.001 recitation sections, Spring 2003](http://people.csail.mit.edu/rcm/6001/), from Rob Miller
+  * [6.001 recitation, Fall 1997](https://people.csail.mit.edu/dnj/teaching/6001/1997/), from Daniel Jackson
+  * [6.001 recitation, Fall 1999](https://people.csail.mit.edu/dnj/teaching/6001/1999/), from Daniel Jackson
+  * [6.001 recitation notes, Spring 2004](https://www.cs.rpi.edu/~cutler/6.001/S04/index.html), from Barb Cutler
+  * [6.001 recitation notes, Spring 2005](https://www.cs.rpi.edu/~cutler/6.001/S05/index.html), from Barb Cutler
+* Various materials, problem sets, lecture notes, handouts, quizzes, and other
+  resources, from the years 1996, 1997 and 1998, are available in
+  [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/).
+
+
 
 1. **Get the SICP Book!** The entire original text of the SICP is available under a Creative
    Commons license for online reading in
