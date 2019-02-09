@@ -158,6 +158,7 @@ As my study progresses, I will add here links to files and codes.
     * Familiarize yourself with the [tools](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools)
     * Familiarize yourself with the [related resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/related-resources)
     * Download the [course materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/download-course-materials) to a directory on your computer
+
   0.2 From internet, familiarize yourself with recitations resources:
     * [6.001 recitation, Fall 1997](https://people.csail.mit.edu/dnj/teaching/6001/1997/), from Daniel Jackson
     * [6.001 recitation, Fall 1999](https://people.csail.mit.edu/dnj/teaching/6001/1999/), from Daniel Jackson
