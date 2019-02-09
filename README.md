@@ -165,27 +165,27 @@ As my study progresses, I will add here links to files and codes.
       * [6.001 recitation notes, Spring 2004](https://www.cs.rpi.edu/~cutler/6.001/S04/index.html), from Barb Cutler
       * [6.001 recitation notes, Spring 2005](https://www.cs.rpi.edu/~cutler/6.001/S05/index.html), from Barb Cutler
       * [6.001 recitation notes, Fall 2005](http://people.csail.mit.edu/fredo/Classes/6001Fall05/), from Frédo Durand
-  * 3) From internet, familiarize yourself with the the great amount of resources available in
-    [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/):
+  * *Step 3: From internet, familiarize yourself with the the great amount of resources available in
+    [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/):*
       * [6.001 Spring 1996](https://groups.csail.mit.edu/mac/classes/6.001/ST96/)
       * [6.001 Fall 1996](https://groups.csail.mit.edu/mac/classes/6.001/FT96/)
       * [6.001 Spring 1997](https://groups.csail.mit.edu/mac/classes/6.001/ST97/)
       * [6.001 Fall 1997](https://groups.csail.mit.edu/mac/classes/6.001/FT97/)
       * [6.001 Spring 1998](https://groups.csail.mit.edu/mac/classes/6.001/ST98/index.adp)
       * [6.001 Fall 1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/index.adp)
-  * 4) From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf).
-    There is also a new version (2019) of this document, for *MIT 6.945 Adventures in
-    Advanced Symbolic Programming*: [MIT 6.945 Don't Panic](https://groups.csail.mit.edu/mac/users/gjs/6.945/dont-panic/).
-    This new version uses Scheme 10.1.5 and provides some utilities to configure
-    Emacs or Edwin, and can be very helpfull.
-  * 5) Install a recent version of [Emacs](https://www.gnu.org/software/emacs/) and learn how to use it.
-  * 6) Install a recent version of [MIT GNU/Scheme](https://www.gnu.org/software/mit-scheme/).
-    There is also the possibility to use some other Lisp dialect, like
-    [Racket](https://racket-lang.org/). You'll have to experiment with this.
-  * 7) Learn how to use the [Emacs interface for Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/GNU-Emacs-Interface.html).
-  * 8) Learn how to use [Edwin](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/Edwin.html).
-  * 9) Get a copy of SICP book (see above) or buy one
-  * 10) If possible, buy a copy of SICP Instructor's Manual (see above)
+  * *Step 4: From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf)*
+      * Note: there is also a new version (2019) of this document, for *MIT 6.945 Adventures in
+        Advanced Symbolic Programming*: [MIT 6.945 Don't Panic](https://groups.csail.mit.edu/mac/users/gjs/6.945/dont-panic/).
+        This new version uses Scheme 10.1.5 and provides some utilities to configure
+        Emacs or Edwin, and can be very helpfull.
+  * *Step 5: Install a recent version of [Emacs](https://www.gnu.org/software/emacs/) and learn how to use it*
+  * *Step 6: Install a recent version of [MIT GNU/Scheme](https://www.gnu.org/software/mit-scheme/)*
+      * Note: there is also the possibility to use some other Lisp dialect, like
+        [Racket](https://racket-lang.org/). You'll have to experiment with this.
+  * *Step 7: Learn how to use the [Emacs interface for Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/GNU-Emacs-Interface.html)*
+  * *Step 8: Learn how to use [Edwin](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/Edwin.html)*
+  * *Step 9: Get, or buy, a copy of SICP book (see above)*
+  * *Step 10: If possible, buy a copy of SICP Instructor's Manual (see above)*
 * **Chapter 1: Building Abstractions with Procedures**
   * Section 1.1: The Elements of Programming
   * Section 1.2: Procedures and the Processes They Generate
