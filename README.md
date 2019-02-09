@@ -144,7 +144,7 @@ indicate the chapter and the corresponding section of the book.
 
 As my study progresses, I will add here links to files and codes.
 
-0. Getting Started
+0. **Getting Started**
    1. From MIT OCW 6.001:
       * Read the [course home page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
       * Read the [syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus)
@@ -181,6 +181,6 @@ As my study progresses, I will add here links to files and codes.
    9. Get a copy of SICP book (see above)
    10. If possible, buy a copy of SICP Instructor's Manual (see above)
 
-1. Building Abstractions with Procedures
+1. **Building Abstractions with Procedures**
   1.1 The Elements of Programming
     * 
