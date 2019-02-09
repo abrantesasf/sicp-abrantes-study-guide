@@ -143,6 +143,9 @@ indicate the chapter and the corresponding section of the book.
 ## 3 Summary
 
 As my study progresses, I will add here links to files and codes.
+Please note: the content listed below is much larger than the content that was
+originally used in MIT 6.001, as the original course had 1 semester (13-16 weeks)
+duration. I'm not in a hurry and so I included more stuff.
 
 * **Getting Started**
   * *Step 1: From MIT OCW 6.001*
@@ -198,6 +201,7 @@ As my study progresses, I will add here links to files and codes.
     * Read "[Lecture 1 notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture1webhand.pdf)"
     * Read "[SICP Chapter 1 Introduction](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html)" (pages 1-4)
     * Read "[SICP Section 1.1](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html)" (pages 4-31), but do not do the exercises now
+    * Read "SICP Instructor's Manual (SICP-IM) Section 1.1" (pages 1-17), but do not do exercises now
     * Clarify concepts with recitations, and do the recitations exercises:
       * [Daniel, 1997: Basics](https://people.csail.mit.edu/dnj/teaching/6001/1997/recitation-1/index.htm)
       * [Daniel, 1999: Interpreters & Evaluation](https://people.csail.mit.edu/dnj/teaching/6001/1999/recitation-01.html)
@@ -220,7 +224,7 @@ As my study progresses, I will add here links to files and codes.
       and also do [Problem Set 1, from Fall/1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/psets/ps1web/).
       You can also take a look at other [problem sets from other years](https://groups.csail.mit.edu/mac/classes/6.001/).
     * Do the exercises from SICP, Section 1.1.
-    * Do the exercises from SICP Instructor's Manual (SICP-IM), Section 1.1.
+    * Do the exercises from SICP-IM, Section 1.1.
   * Section 1.2: Procedures and the Processes They Generate
   * Section 1.3: Formulating Abstractions With Higher-Order Procedures
 * **Chapter 2: Building Abstractions with Data**
