@@ -194,7 +194,7 @@ As my study progresses, I will add here links to files and codes.
 * **Chapter 1: Building Abstractions with Procedures**
   * *Section 1.1: The Elements of Programming*
     * Watch the video lecture "[1A: Overview and Introduction to Lisp](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/)"
-      and use the PDF transcript if necessary
+      and use the [PDF transcript](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/1a-overview-and-introduction-to-lisp/2Op3QLzMgSY.pdf) if necessary
     * Read "[Lecture 1 notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/lecture1webhand.pdf)"
     * Read "[SICP Chapter 1 Introduction](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-9.html)" (pages 1-4)
     * Read "[SICP Section 1.1](http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html)" (pages 4-31), but do not do the exercises now
