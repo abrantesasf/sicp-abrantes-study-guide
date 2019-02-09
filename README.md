@@ -145,41 +145,41 @@ indicate the chapter and the corresponding section of the book.
 As my study progresses, I will add here links to files and codes.
 
 0. Getting Started
-  1. From MIT OCW 6.001:
-    * Read the [course home page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
-    * Read the [syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus)
-    * Familiarize yourself with the [calendar](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/calendar)
-    * Familiarize yourself with the [reading list](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings)
-    * Familiarize yourself with the [lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes)
-    * Familiarize yourself with the [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures). Download to your computer!
-    * Familiarize yourself with the [recitations](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/recitations)
-    * Familiarize yourself with the [exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/exams)
-    * Familiarize yourself with the [projects](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/projects)
-    * Familiarize yourself with the [tools](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools)
-    * Familiarize yourself with the [related resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/related-resources)
-    * Download the [course materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/download-course-materials) to a directory on your computer
-  2. From internet, familiarize yourself with recitations resources:
-    * [6.001 recitation, Fall 1997](https://people.csail.mit.edu/dnj/teaching/6001/1997/), from Daniel Jackson
-    * [6.001 recitation, Fall 1999](https://people.csail.mit.edu/dnj/teaching/6001/1999/), from Daniel Jackson
-    * [6.001 recitation sections, Spring 2003](http://people.csail.mit.edu/rcm/6001/), from Rob Miller
-    * [6.001 recitation notes, Spring 2004](https://www.cs.rpi.edu/~cutler/6.001/S04/index.html), from Barb Cutler
-    * [6.001 recitation notes, Spring 2005](https://www.cs.rpi.edu/~cutler/6.001/S05/index.html), from Barb Cutler
-    * [6.001 recitation notes, Fall 2005](http://people.csail.mit.edu/fredo/Classes/6001Fall05/), from Frédo Durand
-  3. From internet, familiarize yourself with the the great amount of resources available in
-  [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/):
-    * [6.001 Spring 1996](https://groups.csail.mit.edu/mac/classes/6.001/ST96/)
-    * [6.001 Fall 1996](https://groups.csail.mit.edu/mac/classes/6.001/FT96/)
-    * [6.001 Spring 1997](https://groups.csail.mit.edu/mac/classes/6.001/ST97/)
-    * [6.001 Fall 1997](https://groups.csail.mit.edu/mac/classes/6.001/FT97/)
-    * [6.001 Spring 1998](https://groups.csail.mit.edu/mac/classes/6.001/ST98/index.adp)
-    * [6.001 Fall 1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/index.adp)
-  4. From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf)
-  5. Install a recent version of [Emacs](https://www.gnu.org/software/emacs/) and learn how to use it.
-  6. Install a recent version of [MIT GNU/Scheme](https://www.gnu.org/software/mit-scheme/).
-  7. Learn how to use the [Emacs interface for Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/GNU-Emacs-Interface.html).
-  8. Learn how to use [Edwin](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/Edwin.html).
-  9. Get a copy of SICP book (see above)
-  10. If possible, buy a copy of SICP Instructor's Manual (see above)
+   1. From MIT OCW 6.001:
+      * Read the [course home page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm)
+      * Read the [syllabus](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus)
+      * Familiarize yourself with the [calendar](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/calendar)
+      * Familiarize yourself with the [reading list](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings)
+      * Familiarize yourself with the [lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes)
+      * Familiarize yourself with the [video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures). Download to your computer!
+      * Familiarize yourself with the [recitations](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/recitations)
+      * Familiarize yourself with the [exams](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/exams)
+      * Familiarize yourself with the [projects](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/projects)
+      * Familiarize yourself with the [tools](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools)
+      * Familiarize yourself with the [related resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/related-resources)
+      * Download the [course materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/download-course-materials) to a directory on your computer
+   2. From internet, familiarize yourself with recitations resources:
+      * [6.001 recitation, Fall 1997](https://people.csail.mit.edu/dnj/teaching/6001/1997/), from Daniel Jackson
+      * [6.001 recitation, Fall 1999](https://people.csail.mit.edu/dnj/teaching/6001/1999/), from Daniel Jackson
+      * [6.001 recitation sections, Spring 2003](http://people.csail.mit.edu/rcm/6001/), from Rob Miller
+      * [6.001 recitation notes, Spring 2004](https://www.cs.rpi.edu/~cutler/6.001/S04/index.html), from Barb Cutler
+      * [6.001 recitation notes, Spring 2005](https://www.cs.rpi.edu/~cutler/6.001/S05/index.html), from Barb Cutler
+      * [6.001 recitation notes, Fall 2005](http://people.csail.mit.edu/fredo/Classes/6001Fall05/), from Frédo Durand
+   3. From internet, familiarize yourself with the the great amount of resources available in
+      [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/):
+      * [6.001 Spring 1996](https://groups.csail.mit.edu/mac/classes/6.001/ST96/)
+      * [6.001 Fall 1996](https://groups.csail.mit.edu/mac/classes/6.001/FT96/)
+      * [6.001 Spring 1997](https://groups.csail.mit.edu/mac/classes/6.001/ST97/)
+      * [6.001 Fall 1997](https://groups.csail.mit.edu/mac/classes/6.001/FT97/)
+      * [6.001 Spring 1998](https://groups.csail.mit.edu/mac/classes/6.001/ST98/index.adp)
+      * [6.001 Fall 1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/index.adp)
+   4. From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf)
+   5. Install a recent version of [Emacs](https://www.gnu.org/software/emacs/) and learn how to use it.
+   6. Install a recent version of [MIT GNU/Scheme](https://www.gnu.org/software/mit-scheme/).
+   7. Learn how to use the [Emacs interface for Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/GNU-Emacs-Interface.html).
+   8. Learn how to use [Edwin](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/Edwin.html).
+   9. Get a copy of SICP book (see above)
+   10. If possible, buy a copy of SICP Instructor's Manual (see above)
 
 1. Building Abstractions with Procedures
   1.1 The Elements of Programming
