@@ -173,7 +173,11 @@ As my study progresses, I will add here links to files and codes.
       * [6.001 Fall 1997](https://groups.csail.mit.edu/mac/classes/6.001/FT97/)
       * [6.001 Spring 1998](https://groups.csail.mit.edu/mac/classes/6.001/ST98/index.adp)
       * [6.001 Fall 1998](https://groups.csail.mit.edu/mac/classes/6.001/FT98/index.adp)
-   4. From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf)
+   4. From MIT OCW, read the [Don't Panic: An Introductory Guide to 6.001 Computer System](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/tools/dontpanicnew.pdf).
+      There is also a new version (2019) of this document, for *MIT 6.945 Adventures in
+      Advanced Symbolic Programming*: [MIT 6.945 Don't Panic](https://groups.csail.mit.edu/mac/users/gjs/6.945/dont-panic/).
+      This new version uses Scheme 10.1.5 and provides some utilities to configure
+      Emacs or Edwin, and can be very helpfull.
    5. Install a recent version of [Emacs](https://www.gnu.org/software/emacs/) and learn how to use it.
    6. Install a recent version of [MIT GNU/Scheme](https://www.gnu.org/software/mit-scheme/).
    7. Learn how to use the [Emacs interface for Scheme](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user/GNU-Emacs-Interface.html).
