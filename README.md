@@ -185,6 +185,31 @@ As my study progresses, I will add here links to files and codes.
    9. Get a copy of SICP book (see above)
    10. If possible, buy a copy of SICP Instructor's Manual (see above)
 
-1. **Building Abstractions with Procedures**
-     1. The Elements of Programming
-        * asdf
+* **Chapter 1: Building Abstractions with Procedures**
+  * Section 1.1: The Elements of Programming
+  * Section 1.2: Procedures and the Processes They Generate
+  * Section 1.3: Formulating Abstractions With Higher-Order Procedures
+* **Chapter 2: Building Abstractions with Data**
+  * Section 2.1: Introduction to Data Abstraction
+  * Section 2.2: Hierarchical DAta and the Closure Property
+  * Section 2.3: Symbolic Data
+  * Section 2.4: Multiple Representations for Abstract Data
+  * Section 2.5: Systems with Generic Operations
+* **Chapter 3: Modularity, Objects, and State**
+  * Section 3.1: Assignment and Local State
+  * Section 3.2: The Environment Model of Evaluation
+  * Section 3.3: Modeling with Mutable Data
+  * Section 3.4: Concurrency: Time Is of the Essence
+  * Section 3.5: Streams
+* **Chapter 4: Metalinguistic Abstraction**
+  * Section 4.1: The Metacircular Evaluator
+  * Section 4.2: Variations on a Scheme - Lazy Evaluation
+  * Section 4.3: Variations on a Scheme - Nondeterministic Computing
+  * Section 4.4: Logic Programming
+* **Chapter 5: Computing with Register Machines**
+  * Section 5.1: Designing Register Machines
+  * Section 5.2: A Register-Machine Simulator
+  * Section 5.3: Storage Allocation and Garbage Collection
+  * Section 5.4: The Explicit-Control Evaluator
+  * Section 5.5: Compilation
+  
