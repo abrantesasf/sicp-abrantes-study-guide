@@ -101,10 +101,13 @@ at MIT, and so on. The main difficulties were:
 * Various materials, problem sets, lecture notes, handouts, quizzes, and other
   resources, from the years 1996, 1997 and 1998, are available in
   [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/).
-
-
-
-1. **Get the SICP Book!** The entire original text of the SICP is available under a Creative
+* The [Ars Digita University (ADUni)](http://www.aduni.org/courses/sicp/) archive
+  contains material, videos, handouts, and other resources related to SICP.
+* A former "summary" course of the SICP, MIT 6.037, is available on
+  [https://web.mit.edu/alexmv/6.037/](https://web.mit.edu/alexmv/6.037/).
+* An introductory course to the SICP, MIT 6.090, is available:
+  [MIT OpenCourseWare 6.090](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/).
+* The entire original text of the SICP is available under a Creative
    Commons license for online reading in
    [http://mitpress.mit.edu/sites/default/files/sicp/index.html](http://mitpress.mit.edu/sites/default/files/sicp/index.html).
    * There are other versions on internet:
@@ -114,4 +117,22 @@ at MIT, and so on. The main difficulties were:
    * And, of course, there are the printed versions:
      * SICP on: [Amazon](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering-dp-0262011530/dp/0262011530), [MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
      * Instructor's Manual to SICP on: [Amazon](https://www.amazon.com/Instructors-Structure-Interpretation-Computer-Programs/dp/0262692201/), [MIT Press](https://mitpress.mit.edu/books/instructors-manual-ta-structure-and-interpretation-computer-programs-second-edition)
-2. adsf
+* The version of Scheme used in classes is 7.5.1, already very old. The most
+  [current version of Scheme is 10.1.5](https://www.gnu.org/software/mit-scheme/) and this may cause incompatibility
+  problems with the original code.
+
+For all these difficulties there is no optimal recipe for the individual study
+of SICP. Everyone needs to find the method that works best for themselves.
+My study plan is as follows:
+
+1. From the features of MIT OCW, try to follow the suggested schedule as follows:
+  * [Read the material in advance](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/readings/)
+  * [Watch video lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) (with transcripts)
+  * Study the corresponding [lecture notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/)
+2. Study the material of the recitations available on the internet (see above),
+  concerning the content of the readings and videos.
+3. Answer the problem sets and projects available at MIT OCW and the internet (see above)
+4. Answer the problems on SICP book (and on Instructor's Manual).
+
+Files created during my study will be organized into subdirectories that will
+indicate the chapter and the corresponding section of the book.
