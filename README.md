@@ -22,7 +22,14 @@ already a great programmer, it will take you an evening to read the first few ch
 and you'll discover a precision vocabulary for discussing what you've spent 10 years
 learning the hard way. If you're not already a great programmer, I would have thought
 that these few chapters would save you from having to spend years flailing around in
-the dark.
+the dark. Unfortunately, there doesn't seem to be a substitute for
+practical experience.
+> Sidenote: the authors used to have a review wall outside their
+offices at MIT. University professors from around the world writing in
+scientific journals said "finally I understand what all this computer
+science stuff is about; this is the most brilliant book ever. I'm glad
+that we're using it to teach freshmen now." In the center was a review
+from *Byte* magazine: "I didn't understand any of this book."
 > - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
 
 > MIT set the bar very high for these courses, creating a required course (6.001)
@@ -57,7 +64,7 @@ reports from individual SICP studies, even if MIT itself is [no longer offering 
 discipline in its new curriculum](https://mitadmissions.org/blogs/entry/the_end_of_an_era_1/).
 
 This GitHub repository is my individual study guide for SICP. I'm starting now in, February
-2019, and I intend to finish within 1 year. Feel free to use the materials and codes I will
+2019, and I intend to finish within 1-2 years. Feel free to use the materials and codes I will
 put here and send me suggestions and criticisms (abrantesasf at gmail dot com).
 
 Have a nice SICP!
@@ -73,7 +80,7 @@ I spent almost 2 months looking for material on the internet,
 and here's the problem: there is a *lot of material* from SICP and MIT 6.001 on
 the internet, but all of this stuff is completely disorganized, not systemized,
 with many different versions depending on the year/term when 6.001 was taught
-at MIT, and so on. The main difficulties were:
+at MIT, and so on. The main sources that I found were:
 
 * The main source of material for SICP and MIT 6.001 is [MIT OpenCourseWare 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm),
   which provides materials, a reading list, suggested calendar, lecture notes, exams
@@ -84,10 +91,6 @@ at MIT, and so on. The main difficulties were:
   Hewlett-Packard employees, on 1986. The [MIT OpenCourseWare 6.001 uses these video
   lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) and provides a transcript in PDF of everything the teacher said.
   All video lectures are [available for download on the Internet Archives](https://archive.org/details/MIT_Structure_of_Computer_Programs_1986).
-* MIT OCW x Video Lectures: since the lessons available at MIT OCW are from 2005
-  and the video lectures from 1986, the lessons (and also the lecture notes) do
-  not exactly match the videos. This creates a reasonable difficulty: you have to
-  match the new lessons with the old videos, and this is not always obvious.
 * In the original class at MIT there were 2 recitations per week, where the
   students interacted with assistant teachers to solve exercises and clarify
   concepts of the lectures. Much of this stuff has been lost, but there are still
@@ -101,12 +104,6 @@ at MIT, and so on. The main difficulties were:
 * Various materials, problem sets, lecture notes, handouts, quizzes, and other
   resources, from the years 1996, 1997 and 1998, are available in
   [https://groups.csail.mit.edu/mac/classes/6.001/](https://groups.csail.mit.edu/mac/classes/6.001/).
-* The [Ars Digita University (ADUni)](http://www.aduni.org/courses/sicp/) archive
-  contains material, videos, handouts, and other resources related to SICP.
-* A former "summary" course of the SICP, MIT 6.037, is available on
-  [https://web.mit.edu/alexmv/6.037/](https://web.mit.edu/alexmv/6.037/).
-* An introductory course to the SICP, MIT 6.090, is available:
-  [MIT OpenCourseWare 6.090](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/).
 * The entire original text of the SICP is available under a Creative
    Commons license for online reading in
    [http://mitpress.mit.edu/sites/default/files/sicp/index.html](http://mitpress.mit.edu/sites/default/files/sicp/index.html).
@@ -117,8 +114,37 @@ at MIT, and so on. The main difficulties were:
    * And, of course, there are the printed versions:
      * SICP on: [Amazon](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering-dp-0262011530/dp/0262011530), [MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
      * Instructor's Manual to SICP on: [Amazon](https://www.amazon.com/Instructors-Structure-Interpretation-Computer-Programs/dp/0262692201/), [MIT Press](https://mitpress.mit.edu/books/instructors-manual-ta-structure-and-interpretation-computer-programs-second-edition)
-* The version of Scheme used in classes is 7.5.1, already very old. The most
-  [current version of Scheme is 10.1.5](https://www.gnu.org/software/mit-scheme/) and this may cause incompatibility
+
+Other usefull resources founded:
+* The [Ars Digita University (ADUni)](http://www.aduni.org/courses/sicp/) archive
+  contains material, videos, handouts, and other resources related to SICP.
+* A former "summary" course of the SICP, MIT 6.037, is available on
+  [https://web.mit.edu/alexmv/6.037/](https://web.mit.edu/alexmv/6.037/).
+* An introductory course to the SICP, MIT 6.090, is available:
+  [MIT OpenCourseWare
+  6.090](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/).
+* The Berkeley University uses a Python-based version of SICP in its
+  _CS 61A: Structure and Interpretation of Computer Program_
+  course. Professor John DeNero "rewrote" SICP in Python for Berkeley
+  students, and published the book for free on [Composing
+  Programs](http://composingprograms.com/). The [CS61A official
+  website](https://cs61a.org/) has a lot of material and useful
+  resources for study! The Composing Programs book contains links to
+  video lectures that accompany each chapter and/or section. A
+  complete collection of videos is available on the [The Internet
+  Archives](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5).
+
+The main difficulties I encountered when starting my studies were the
+following:
+
+* MIT OCW x Video Lectures: since the lessons available at MIT OCW are from 2005
+  and the video lectures from 1986, the lessons (and also the lecture notes) do
+  not exactly match the videos. This creates a reasonable difficulty: you have to
+  match the new lessons with the old videos, and this is not always
+  obvious. Some old videos are covered in two or more new classes, and
+  vice versa. You will have to adapt yourself to this.
+* The version of Scheme used in 6.001 classes is Scheme 7.5.1, already very old. The most
+  [current version of Scheme is 10.1](https://www.gnu.org/software/mit-scheme/) and this may cause incompatibility
   problems with the original code.
 
 For all these difficulties there is no optimal recipe for the individual study
