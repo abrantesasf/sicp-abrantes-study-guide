@@ -32,6 +32,9 @@ that we're using it to teach freshmen now." In the center was a review
 from *Byte* magazine: "I didn't understand any of this book."
 > - [Philip Greenspun (The Bookshelf of a well-read Web Nerd)](http://philip.greenspun.com/wtr/bookshelf.html)
 
+> The best computer science book in the world.
+> - [Brian Harvey](https://people.eecs.berkeley.edu/~bh/)
+
 > MIT set the bar very high for these courses, creating a required course (6.001)
 and a textbook (Abelson & Sussman’s Structure and Interpretation of Computer Programs)
 which were used at dozens or even hundreds of top CS schools as the de facto introduction
