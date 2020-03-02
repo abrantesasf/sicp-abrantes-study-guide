@@ -135,7 +135,9 @@ Other usefull resources founded:
   resources for study! The Composing Programs book contains links to
   video lectures that accompany each chapter and/or section. A
   complete collection of videos is available on the [The Internet
-  Archives](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5).
+  Archives](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5). Uma
+  versão mais antiga do curso, ainda baseada em Scheme, pode ser
+  encontrada no site da [CS61A de 2011](http://inst.eecs.berkeley.edu/~cs61a/sp11/).
 
 The main difficulties I encountered when starting my studies were the
 following:
