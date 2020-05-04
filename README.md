@@ -135,9 +135,16 @@ Other usefull resources founded:
   resources for study! The Composing Programs book contains links to
   video lectures that accompany each chapter and/or section. A
   complete collection of videos is available on the [The Internet
-  Archives](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5). Uma
-  versão mais antiga do curso, ainda baseada em Scheme, pode ser
-  encontrada no site da [CS61A de 2011](http://inst.eecs.berkeley.edu/~cs61a/sp11/).
+  Archives](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5).
+  * Previous, Scheme-based versions of _CS 61A: Structure and Interpretation of
+    Computer Program_ can be found at Berkeley web pages:
+    * 2011 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp11/) and [Videos](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E)
+    * 2010 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp10/) and [Videos](https://archive.org/details/ucberkeley-webcast-PLD7B8D6A4834C14C8); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa10/) and [Videos](https://archive.org/details/ucberkeley-webcast-PL6D76F0C99A731667)
+    * 2009 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp09/); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa09/)
+    * 2008 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp08/) and [Videos](https://archive.org/details/ucberkeley-webcast-PL6879A8466C44A5D5); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa08/)
+    * 2007 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp07/); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa07/)
+    * 2006 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp06/); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa06/)
+    * 2005 terms: Spring [Resources](http://inst.eecs.berkeley.edu/~cs61a/sp05/); Fall [Resources](http://inst.eecs.berkeley.edu/~cs61a/fa05/)
 
 The main difficulties I encountered when starting my studies were the
 following:
